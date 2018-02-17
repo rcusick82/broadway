@@ -4,6 +4,15 @@
   center;
 }
 h1 {
-  color: blue;
+  color: White;
   text-align: center;
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+
+}
+a {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
 }
