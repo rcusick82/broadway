@@ -9,10 +9,44 @@ h1 {
   font-family: helvetica;
   font-size: 70px;
   font-weight: bold;
-
 }
+h2 {
+  text-align: center;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 32px;
+}
+p {
+  font-family: helvetica;
+  font-size: 14px;
+  text-align: center;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+.york {
+  background: url("../images/flatiron.png");
+  background-position: center;
+  background-size: cover;
+  font-size: 23px;
+  font-family: helvetica;
+  font-weight: bold;
+  color: white;
+}
+
 a {
   font-family: helvetica;
   font-size: 18px;
   color: white;
+  font-weight: bold;
+}
+
+}
+img {
+  align-content: center;
 }
