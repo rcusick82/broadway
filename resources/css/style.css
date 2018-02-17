@@ -1,3 +1,9 @@
 .header {
-  background-image: url(flatiron.png)
+  background: url("../images/flatiron.png");
+  background-position:
+  center;
+}
+h1 {
+  color: blue;
+  text-align: center;
 }
