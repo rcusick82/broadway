@@ -20,7 +20,6 @@ p {
   font-family: helvetica;
   font-size: 14px;
   text-align: center;
-  font-weight: bold;
 }
 
 h3 {
@@ -49,4 +48,11 @@ a {
 }
 img {
   align-content: center;
+}
+footer {
+display: inline-block;
+  font-family: helvetica;
+  font-size: 11px;
+  color: White;
+  background-color: dimgray;
 }
