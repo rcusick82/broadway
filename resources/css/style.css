@@ -50,9 +50,11 @@ img {
   align-content: center;
 }
 footer {
-display: inline-block;
+
   font-family: helvetica;
   font-size: 11px;
   color: White;
   background-color: dimgray;
+  width: 100%;
+  
 }
